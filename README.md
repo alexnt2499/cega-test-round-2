@@ -46,3 +46,8 @@ npm run build
 npm run preview
 
 ```
+
+## Production
+
+> Link Production
+> https://cega-test-round-2.vercel.app/
